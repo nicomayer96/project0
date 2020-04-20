@@ -1,0 +1,26 @@
+
+%table{ 
+	color:#fc8b00;
+	font-family:arial,sans-serif;
+	border:2px solid black;
+	text-align:center;
+	font-size:35px;
+	position:absolute;
+	left:250px;
+	top:191px;
+	border-collapse:collapse;
+		}
+#productos{
+	@extend %table;
+	width:55%;
+	}
+#trabajos{g
+	@extend %table;
+	background-color:black;
+	width:70%;
+	height:550px;
+}
+#maquinas{
+	background-color:black;
+	font-weight:bold;	
+		}

@@ -1,0 +1,23 @@
+﻿#productos, #trabajos, #maquinas {
+  color: #fc8b00;
+  font-family: arial, sans-serif;
+  border: 2px solid black;
+  text-align: center;
+  font-size: 35px;
+  position: absolute;
+  left: 250px;
+  top: 191px;
+  border-collapse: collapse;
+}
+#productos {
+  width: 55%;
+}
+#trabajos {
+  background-color: black;
+  width: 70%;
+  height: 550px;
+}
+#maquinas {
+  background-color: black;
+  font-weight: bold;
+}
